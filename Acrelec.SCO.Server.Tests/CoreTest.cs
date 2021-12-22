@@ -1,6 +1,4 @@
-using System;
 using System.Collections.Generic;
-using System.IO;
 using System.Net;
 using System.Net.Http;
 using System.Net.Http.Json;
@@ -9,7 +7,6 @@ using Acrelec.SCO.Core.Model.RestExchangedMessages;
 using Acrelec.SCO.DataStructures;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.TestHost;
-using Microsoft.Extensions.Configuration;
 using Xunit;
 
 namespace Acrelec.SCO.Server.Tests

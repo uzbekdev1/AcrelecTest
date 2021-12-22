@@ -3,7 +3,6 @@ using System.Linq;
 using System.Threading.Tasks;
 using Acrelec.SCO.Core.Interfaces;
 using Acrelec.SCO.Core.Model.RestExchangedMessages;
-using Acrelec.SCO.DataStructures;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Acrelec.SCO.Server.Controllers
