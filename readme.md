@@ -66,7 +66,7 @@ HTTP StatusCode=400 Bad Request
 4. Tests should pass
 
 
-# Developer reports:
+# Developer report
 
 - Fixed ```//todo``` issues
 - Implemented service/provider logics
