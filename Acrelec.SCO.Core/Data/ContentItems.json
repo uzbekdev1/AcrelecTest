@@ -1,0 +1,26 @@
+﻿[
+  {
+    "ItemCode": "100",
+    "Name": "Coke",
+    "IsAvailable": true,
+    "UnitPrice": 200
+  },
+  {
+    "ItemCode": "101",
+    "Name": "Fanta",
+    "IsAvailable": false,
+    "UnitPrice": 220
+  },
+  {
+    "ItemCode": "200",
+    "Name": "Water",
+    "IsAvailable": true,
+    "UnitPrice": 100
+  },
+  {
+    "ItemCode": "50",
+    "Name": "JB",
+    "IsAvailable": true,
+    "UnitPrice": 500
+  }
+]
